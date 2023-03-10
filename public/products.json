@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Leather Bowl",
+      "price": 21.99,
+      "availableCount": 14
+    },
+    {
+      "id": 2,
+      "name": "The raffia pillow cover square",
+      "price": 429,
+      "availableCount": 5
+    },
+    {
+      "id": 3,
+      "name": "Porcelain Cup",
+      "price": 69.99,
+      "availableCount": 7
+    },
+    {
+      "id": 4,
+      "name": "Dantel Bowl",
+      "price": 349.99,
+      "availableCount": 3
+    },
+    {
+      "id": 5,
+      "name": "Linterna vase",
+      "price": 799.99,
+      "availableCount": 3
+    },
+    {
+      "id": 6,
+      "name": "Heirloom brass tumbler",
+      "price": 129.99,
+      "availableCount": 8
+    },
+    {
+      "id": 7,
+      "name": "Olive wood wine",
+      "price": 369.99,
+      "availableCount": 2
+    }
+  ]
+}
